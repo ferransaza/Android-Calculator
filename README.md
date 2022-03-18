@@ -1,3 +1,3 @@
-# Android-Calculator
+# Android Calculator
 
 Ferran Saigi Zapata
